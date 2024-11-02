@@ -159,9 +159,11 @@ input[type="submit"] {
 	text-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
 }
 
-.cta-box p {
+.cta-box p,
+.desc {
 	color: #fff;
 	font-size: 20px;
+	font-weight: 600;
 	margin-top: 20px;
 }
 
